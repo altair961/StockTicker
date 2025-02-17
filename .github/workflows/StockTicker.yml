@@ -25,6 +25,6 @@ jobs:
 
       - name: List files in the repository
         run: |
-          ls ${{ github.workspace }}/Skinet
+          ls ${{ github.workspace }}/StockTicker
     # This is a job called "deploy"
   # deploy:
